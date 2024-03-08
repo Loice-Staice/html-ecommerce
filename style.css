@@ -1,0 +1,82 @@
+#main{
+    margin: 50px;
+    padding: 20px;
+    
+    
+}
+#nav{
+    display: flex;
+    gap: 80px;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aliceblue;
+
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    text-decoration: none;
+}
+#click{
+    text-align-last: left;
+    justify-content: right;
+}
+#image{
+    position: relative ;
+}
+#text{
+    position: absolute ;
+    top: 30%;
+    padding-left: 300px;
+    font-size: x-large;
+    color: beige;
+}
+#img{
+    display: flex;
+}
+span{
+    
+    width: 0.7cm;
+    font-size: 200%;
+}
+#logo{
+    display: flex;
+}
+#services{
+    padding-left: 400px;
+}
+#wedo{
+    display: flex;
+    gap: 80px;
+}
+#wedo2{
+    display: flex;
+    gap: 80px;
+}
+.help2{
+    display: flex;
+}
+#riaad{
+    display: flex;
+    gap: 100px;
+}
+#stock{
+    display: flex;
+}
+.container8{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-size: 1;
+    gap:15%;
+    background-color:gray;
+}

@@ -1,6 +1,6 @@
 #main{
     margin: 50px;
-    padding: 20px;
+    padding: 100px;
     
     
 }
@@ -79,4 +79,8 @@ span{
     font-size: 1;
     gap:15%;
     background-color:gray;
+}
+#say{
+    display: flex;
+    gap: 80px;
 }
